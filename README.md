@@ -1,2 +1,2 @@
-# React-drop-down-menu
+# drop-down-menu-react
 Created with CodeSandbox
